@@ -1,6 +1,5 @@
 <img src="public/banner-image.png" alt="Banner Image" width=1000 >
-
-### **JS Masterclass Experience** Graduate
+# Hello, I'm Appiah Kumah Miracle
 ### I create beautiful and responsive user interfaces 
 ### Feel free to contact me. 
 ### Email: **appiahkmiracle@gmail.com** 
