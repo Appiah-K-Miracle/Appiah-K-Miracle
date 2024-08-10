@@ -1,5 +1,7 @@
 <img src="public/banner-image.png" alt="Banner Image" width=1000 >
+
 # Hello, I'm Appiah Kumah Miracle
+
 ### I create beautiful and responsive user interfaces 
 ### Feel free to contact me. 
 ### Email: **appiahkmiracle@gmail.com** 
