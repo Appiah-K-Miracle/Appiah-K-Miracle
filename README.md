@@ -1,7 +1,25 @@
-## Hi there 👋
+<img src="public/banner-image.png" alt="Banner Image" width=1000 >
+
+### **JS Masterclass Experience** Graduate
+### I create beautiful and responsive user interfaces 
+### Feel free to contact me. 
+### Email: **appiahkmiracle@gmail.com** 
+### Tel: **+233 557 516 014** 
+### [Instagram](https://www.instagram.com/glenmacdev/) [GitHub](https://github.com/Appiah-K-Miracle/) 
+### My Skills 
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github)
+
+## Connect with me:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/glenmccallum/)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/glenmacdev/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/Appiah-K-Miracle/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Appiah-K-Miracle&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appiah-K-Miracle&theme=tokyonight)
 
 <!--
-**Appiah-K-Miracle/Appiah-K-Miracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GlenMac90/GlenMac90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
