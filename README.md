@@ -8,11 +8,10 @@
 ### Tel: **+233 557 516 014** 
 ### [Instagram](https://www.instagram.com/glenmacdev/) [GitHub](https://github.com/Appiah-K-Miracle/) 
 ### My Skills 
-![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,reactnative,next,flutter,mysql,postgres,postman,git,github)
 
 ## Connect with me:
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/glenmccallum/)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/glenmacdev/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/appiah-k-miracle-205805264/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/Appiah-K-Miracle/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Appiah-K-Miracle&show_icons=true&theme=tokyonight)
