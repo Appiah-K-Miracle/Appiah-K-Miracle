@@ -8,7 +8,7 @@
 ### Tel: **+233 557 516 014** 
 ### [Instagram](https://www.instagram.com/glenmacdev/) [GitHub](https://github.com/Appiah-K-Miracle/) 
 ### My Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,reactnative,next,flutter,mysql,postgres,postman,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,react-native,next,flutter,mysql,postgres,postman,git,github)
 
 ## Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/appiah-k-miracle-205805264/)
