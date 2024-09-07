@@ -14,8 +14,6 @@
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/appiah-k-miracle-205805264/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/Appiah-K-Miracle/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Appiah-K-Miracle&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appiah-K-Miracle&theme=tokyonight)
 
 <!--
